@@ -1,0 +1,9 @@
+{
+  "name": "college-event-portal-root",
+  "version": "1.0.0",
+  "description": "Root configuration for CampusPulse College Event Management Portal",
+  "scripts": {
+    "dev:backend": "cd backend && node server.js",
+    "dev:frontend": "cd frontend && npm run dev"
+  }
+}
